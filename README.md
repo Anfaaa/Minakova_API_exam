@@ -15,10 +15,10 @@
 git clone https://github.com/yourusername/tasks-api.git
 2. Перейдите в директорию проекта:
 cd tasks-api
-3. Установите следующие библиотеки:
-Django>=4.2
-djangorestframework
-drf-yasg
+3. Установите следующие библиотеки:<br>
+Django>=4.2<br>
+djangorestframework<br>
+drf-yasg<br>
 4. Выполните миграции для создания базы данных:
 python manage.py migrate
 5. Запустите сервер:
